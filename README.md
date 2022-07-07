@@ -6,6 +6,7 @@ To master the basics of React Native for iOS and Android Mobile App Development
 2.
 3.
 4. [SectionList](https://github.com/Barath2803/ReactNativeBasicTutorial/edit/main/README.md#sectionlist-component)
+5. [Custom Component for SectionList]()
 
 ### SectionList Component:
 
