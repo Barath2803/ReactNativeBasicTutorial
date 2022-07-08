@@ -4,12 +4,18 @@ To master the basics of React Native for iOS and Android Mobile App Development
 ### Basic Components:
 1.
 2.
-3.
-4. [SectionList](README.md#sectionlist-component)
-5. [Custom Component for SectionList](README.md#custom-component-for-sectionlist)
-6. [Pressable](README.md#pressable)
-7. [RefreshControl](README.md#refreshcontrol)
-8. 
+.
+.
+.
+14. [SectionList](README.md#sectionlist-component)
+15. [Custom Component for SectionList](README.md#custom-component-for-sectionlist)
+16. [Pressable](README.md#pressable)
+17. [RefreshControl](README.md#refreshcontrol)
+18. [InputAccessoryView.js](README.md#InputAccessoryView.js)
+19. []()
+20. []()
+21. []()
+22. []()
 
 ### SectionList Component:
 
@@ -71,3 +77,14 @@ Refer: [InputAccessoryView.js](InputAccessoryView.js)
 
 ### 
 
+
+
+###
+
+
+
+###
+
+
+
+###
