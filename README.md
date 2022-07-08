@@ -60,7 +60,7 @@ Basic props:
 
 Refer: [RefreshControl.js](RefreshControl.js)
 
-<img src="Before_refresh.png" width="200" /><img src="On_refresh.png" width="200" />
+<img src="Before_refresh.png" width="200" /> &#160; <img src="On_refresh.png" width="200" />
 
 ### InputAccessoryView:
 
