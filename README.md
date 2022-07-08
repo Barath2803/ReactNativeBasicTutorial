@@ -9,6 +9,7 @@ To master the basics of React Native for iOS and Android Mobile App Development
 5. [Custom Component for SectionList](README.md#custom-component-for-sectionlist)
 6. [Pressable](README.md#pressable)
 7. [RefreshControl](README.md#refreshcontrol)
+8. 
 
 ### SectionList Component:
 
@@ -38,9 +39,9 @@ Refer: [CustomSectionListApp.js](CustomSectionListApp.js), [CustomSectionList.js
 
 ### Pressable:
 
-New React Native Component, it is basically a wrapper and for provide pressable interaction among the trial components. It is for only iso App, Not support by Android Apps.
+New React Native Component, it is basically a wrapper and for provide pressable interaction among the trial components. It is for only iOS App, Not support by Android Apps.
 
-Sorry Guys, As I am using Android stimulator I can't able to provide a output for you. If you have a iso stimulator copy my code try it on your system.
+Since I am using Android stimulator, I cannot provide an output for you. Try my code on your system if you have an ISO stimulator.
 
 Refer: [Pressable.js](Pressable.js)
 
@@ -58,4 +59,15 @@ Refer: [RefreshControl.js](RefreshControl.js)
 
 <img src="Before_refresh.png" width="200" /><img src="On_refresh.png" width="200" />
 
+### InputAccessoryView:
+
+It only works with the iOS devices. A component which enables customization of the keyboard input accessory view on iOS. The input accessory view is displayed above the keyboard whenever a TextInput has focus. This component can be used to create custom toolbars.
+
+> nativeID - An ID which is used to associate this InputAccessoryView to specified TextInput.
+
+Since I am using Android stimulator, I cannot provide an output for you. Try my code on your system if you have an ISO stimulator.
+
+Refer: [InputAccessoryView.js](InputAccessoryView.js)
+
+### 
 
