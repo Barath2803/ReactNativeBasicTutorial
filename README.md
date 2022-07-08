@@ -6,7 +6,7 @@ To master the basics of React Native for iOS and Android Mobile App Development
 2.
 3.
 4. [SectionList](https://github.com/Barath2803/ReactNativeBasicTutorial/edit/main/README.md#sectionlist-component)
-5. [Custom Component for SectionList]()
+5. [Custom Component for SectionList](https://github.com/Barath2803/ReactNativeBasicTutorial/edit/main/README.md#custom-component-for-sectionlist)
 
 ### SectionList Component:
 
@@ -20,3 +20,9 @@ Basic props:
 > renderSectionHeader - To render at top of the each section (like title for each section)
 
 <img src="SectionList.png" width="200" />
+
+
+### Custom Component for SectionList:
+
+Create separate js file for SectionList component and import in main App.js file for more reuseability
+
