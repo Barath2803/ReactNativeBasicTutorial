@@ -8,10 +8,13 @@ To master the basics of React Native for iOS and Android Mobile App Development
 4. [SectionList](README.md#sectionlist-component)
 5. [Custom Component for SectionList](README.md#custom-component-for-sectionlist)
 6. [Pressable](README.md#pressable)
+7. 
 
 ### SectionList Component:
 
 The React Native SectionList component is a list view component which sets the list of data into sections. The data can be implemented using its section header prop renderSectionHeader.
+
+Refer: [SectionList.js](SectionList.js)
 
 Basic props:
 > KeyExtractor - If the key is not available for the items in the list, then this prop is used to assign unique key for all the items in the List with there index values.
