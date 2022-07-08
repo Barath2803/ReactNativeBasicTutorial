@@ -4,9 +4,6 @@ To master the basics of React Native for iOS and Android Mobile App Development
 ### Basic Components:
 1.
 2.
-.
-.
-.
 14. [SectionList](README.md#sectionlist-component)
 15. [Custom Component for SectionList](README.md#custom-component-for-sectionlist)
 16. [Pressable](README.md#pressable)
