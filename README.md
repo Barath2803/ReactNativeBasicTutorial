@@ -24,6 +24,7 @@ Basic props:
 
 ### Custom Component for SectionList:
 
-Create separate js file for SectionList component and import in main App.js file for more reuseability
+Create separate js file for SectionList component and import in main App.js file for more reuseability.
+Refer: CustomSectionListApp.js, CustomSectionList.js
 
 <img src="CustomSectionList.png" width="200" />
