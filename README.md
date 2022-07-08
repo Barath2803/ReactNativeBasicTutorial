@@ -6,8 +6,8 @@ To master the basics of React Native for iOS and Android Mobile App Development
 2.
 3.
 4. [SectionList](README.md#sectionlist-component)
-5. [Custom Component for SectionList](https://github.com/Barath2803/ReactNativeBasicTutorial/edit/main/README.md#custom-component-for-sectionlist)
-6. [Pressable](https://github.com/Barath2803/ReactNativeBasicTutorial/edit/main/README.md#pressable)
+5. [Custom Component for SectionList](README.md#custom-component-for-sectionlist)
+6. [Pressable](README.md#pressable)
 
 ### SectionList Component:
 
@@ -28,7 +28,8 @@ Basic props:
 ### Custom Component for SectionList:
 
 Create separate js file for SectionList component and import in main App.js file for more reuseability.
-Refer: [CustomSectionListApp.js](CustomSectionListApp.js), [CustomSectionList.js](https://github.com/Barath2803/ReactNativeBasicTutorial/blob/main/CustomSectionList.js)
+
+Refer: [CustomSectionListApp.js](CustomSectionListApp.js), [CustomSectionList.js](CustomSectionList.js)
 
 <img src="CustomSectionList.png" width="200" />
 
@@ -37,3 +38,7 @@ Refer: [CustomSectionListApp.js](CustomSectionListApp.js), [CustomSectionList.js
 New React Native Component, it is basically a wrapper and for provide pressable interaction among the trial components. It is for only iso App, Not support by Android Apps.
 
 Sorry Guys, As I am using Android stimulator I can't able to provide a output for you. If you have a iso stimulator copy my code try it on your system.
+
+Refer: [Pressable.js](Pressable.js)
+
+###
