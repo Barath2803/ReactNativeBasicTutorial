@@ -8,7 +8,7 @@ To master the basics of React Native for iOS and Android Mobile App Development
 4. [SectionList](README.md#sectionlist-component)
 5. [Custom Component for SectionList](README.md#custom-component-for-sectionlist)
 6. [Pressable](README.md#pressable)
-7. 
+7. [RefreshControl](README.md#refreshcontrol)
 
 ### SectionList Component:
 
@@ -44,4 +44,18 @@ Sorry Guys, As I am using Android stimulator I can't able to provide a output fo
 
 Refer: [Pressable.js](Pressable.js)
 
-###
+### RefreshControl:
+
+It is React native component basically used inside a List Components as prop to refresh the page or components.
+
+Basic props: 
+
+> refreshing - To set the refresh is true or false
+
+> onRefresh - What are changes had to happend after or during refresh. 
+
+Refer: [RefreshControl.js](RefreshControl.js)
+
+<img src="Before_refresh.png" width="200" /><img src="On_refresh.png" width="200" />
+
+
