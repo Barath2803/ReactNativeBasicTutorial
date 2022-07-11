@@ -9,7 +9,7 @@ To master the basics of React Native for iOS and Android Mobile App Development
 16. [Pressable](README.md#pressable)
 17. [RefreshControl](README.md#refreshcontrol)
 18. [InputAccessoryView.js](README.md#InputAccessoryView.js)
-19. []()
+19. [Text Props](README.md#text-props)
 20. []()
 21. []()
 22. []()
@@ -72,9 +72,31 @@ Since I am using Android stimulator, I cannot provide an output for you. Try my 
 
 Refer: [InputAccessoryView.js](InputAccessoryView.js)
 
-### 
+### Text props
 
+Following are the main props available on ReactNative to edit the text.
 
+> color - Used to change the color of the text.
+
+> fontSize - To adjust the size of the font.
+
+> fontFamily - used to change the font family of the text.
+
+> fontStyle - Used to change the font style as bold, italic or underline etc.
+
+> fontWeight - Used to change the thickness of the text.
+
+> letterSpacing - To assign the space between the letter.
+
+> textAlign - It provide the auto, center, left, Right and justify option to align the text.
+
+> textDecorationLine - With available option like underline, line-through, none, underline-line-through etc we can modify the text.
+
+> textDecorationColor - Used to change the color of the line.
+
+> textDecorationStyle - Only used in iOS devices, to change the style of the underline by dashed, dotted, double etc.
+
+> textTransform - It provide capitalize, lowercase and uppercase option to modify the text.
 
 ###
 
